@@ -1,5 +1,6 @@
+._mac.command
 txcache
 .fseventsd
 .Spotlight-V100
-fullwallet
-watch-only
+*.wallet
+.Trash-1000
