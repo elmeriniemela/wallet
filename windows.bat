@@ -1,1 +1,1 @@
-start "Electrum" bin/electrum-4.2.2-portable.exe --wallet=fullwallet
+start "Electrum" bin/electrum-4.2.2-portable.exe --wallet=cold.wallet
