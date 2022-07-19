@@ -4,3 +4,5 @@ txcache
 .Spotlight-V100
 *.wallet
 .Trash-1000
+electrum_data
+System Volume Information
