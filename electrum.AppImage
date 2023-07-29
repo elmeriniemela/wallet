@@ -1,2 +1,2 @@
 #!/bin/bash
-./bin/electrum-4.4.5-x86_64.AppImage --wallet=secrets/hot.wallet
+./bin/electrum-4.4.5-x86_64.AppImage --wallet=secrets/cold.wallet
